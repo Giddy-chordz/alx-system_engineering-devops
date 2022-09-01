@@ -1,1 +1,1 @@
-a script that prints the current working directory
+script to list the content of your current directory
