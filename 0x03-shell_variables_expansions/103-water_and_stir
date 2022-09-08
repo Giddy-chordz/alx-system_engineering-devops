@@ -1,0 +1,2 @@
+#!/bin/bash
+printf"%o\n"$((5#$(echo $WATER | tr water01234) + 5#$(echo $STIR | trstir.0123))) | tr01234567bestchol 
